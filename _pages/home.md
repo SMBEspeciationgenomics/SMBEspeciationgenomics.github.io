@@ -9,7 +9,7 @@ Speciation genomics is a fast moving and rapidly changing field. Genome scans an
 
 If standard approaches are insufficient for identifying barriers to gene flow and understanding the processes involved in speciation, where do we go next? One way forward is the use of sophisticated approaches to jointly infer signals of selection, gene flow and demographic history. We can also use efficient simulation to introduce greater statistical rigour to our approaches.
 
-This three day workshop/meeting on speciation genomics will combine talks from invited speakers and participants, a discussion panel and a hands-on workshop to learn how to use a composite likelihood approach to infer selection, gene flow and demography from genome scan data. 
+This three day workshop/meeting on speciation genomics will combine talks from invited speakers and participants, a discussion panel and a hands-on workshop to learn how to use a composite likelihood approach to infer selection, gene flow and demography from genome scan data.
 
 Invited speakers include:
 * Reto Burri (University of Jena)

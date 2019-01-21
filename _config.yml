@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mark Ravinet"
+  name             :
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Evolutionary biologist, bioinformitician"
-  location         : "Oslo, Norway"
+  bio              :
+  location         :
   email            :
   links:
     - label: "Email"
