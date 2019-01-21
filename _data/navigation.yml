@@ -4,6 +4,12 @@ main:
     url: https://SMBEspeciationgenomics.github.io/
   - title: "About"
     url: https://SMBEspeciationgenomics.github.io/about/
+  - title: "Schedule"
+    url: https://SMBEspeciationgenomics.github.io/schedule/
+  - title: "Register"
+    url: https://SMBEspeciationgenomics.github.io/register/
+  - title: "Contact"
+    url: https://SMBEspeciationgenomics.github.io/contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

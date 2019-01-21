@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SMBE Satellite Meeting"
+title                    : "SMBE Satellite Meeting on Speciation Genomics"
 title_separator          : "-"
 name                     : "Mark Ravinet"
 description              : "Identifying barriers to gene flow in the genome"
