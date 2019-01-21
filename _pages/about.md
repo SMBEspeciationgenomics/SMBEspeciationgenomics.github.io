@@ -3,8 +3,6 @@ layout: archive
 permalink: /about/
 ---
 
-# SMBE Satellite Meeting and Workshop - Identifying barriers to gene flow in the genome
-
 We will continue to update this page as the date for the workshop approaches, however some initial information is available here.
 
 ## Meeting structure
