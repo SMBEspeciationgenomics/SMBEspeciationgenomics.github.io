@@ -9,13 +9,13 @@ For any enquiries or questions, please contact the organisers at [smbespeciation
 
 ### Mark Ravinet
 
-![](/images/markravinet.jpeg =250x250)
+![](/images/markravinet.jpeg)
 
 [CEES, University of Oslo, Norway](https://www.mn.uio.no/cees/english/people/researcher-postdoc/msravine/)
 
 ### Marina Rafajlović
 
-![](/images/marina.jpg =250x250)
+![]({/images/marina.jpg =250x)
 
 [University of Gothenburg, Sweden](https://marine.gu.se/english/about-us/staff?languageId=100001&userId=xrafma)
 
