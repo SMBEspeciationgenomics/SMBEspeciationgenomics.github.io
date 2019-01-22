@@ -21,4 +21,4 @@ To attend the meeting, you will need to bring your own laptop and have a basic l
 
 ## Costs and registration
 
-There is space for approximately 40-50 participants. To apply, please register [here](register). The deadline for applications is **25th February**. It is free to register but attendance will cost $300 (US) to cover accommodation and food for the three days. Travel bursaries are available for MSc and PhD students wishing to attend.
+There is space for approximately 40-50 participants. To apply, please register [here](/register/). The deadline for applications is **25th February**. It is free to register but attendance will cost $300 (US) to cover accommodation and food for the three days. Travel bursaries are available for MSc and PhD students wishing to attend.

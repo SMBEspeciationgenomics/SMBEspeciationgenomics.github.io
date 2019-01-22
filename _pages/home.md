@@ -20,11 +20,11 @@ Invited speakers include:
 * [Simon Aeschbacher (University of Zurich)](http://www.cmpg.iee.unibe.ch/about_us/team/researchers/dr_aeschbacher_simon/index_eng.html)
 * [Frederic Guillaume (University of Zurich)](https://www.ieu.uzh.ch/en/staff/member/guillaume_frederic.html)
 
-The practical workshop will be led by [Jerome Kelleher](http://jeromekelleher.net/) (the importance of simulations) and [Konrad Lohse](https://sites.google.com/view/lohselab) (composite likelihood inference). Some basic experience in Unix, and Python programming is necessary. If you want to learn more about how to gain the necessary skills to participate, [see here]().
+The practical workshop will be led by [Jerome Kelleher](http://jeromekelleher.net/) (the importance of simulations) and [Konrad Lohse](https://sites.google.com/view/lohselab) (composite likelihood inference). Some basic experience in Unix, and Python programming is necessary. If you want to learn more about how to gain the necessary skills to participate, [see here](/about/).
 
 ## How to apply
 
-There is space for approximately 40-50 participants. To apply, please register [here](register). The deadline for applications is **25th February**.
+There is space for approximately 40-50 participants. To apply, please register [here](/register/). The deadline for applications is **25th February**.
 
 It is free to register but attendance will cost $300 (US) to cover accommodation and food for the three days. Travel bursaries are available for MSc and PhD students wishing to attend.
 
