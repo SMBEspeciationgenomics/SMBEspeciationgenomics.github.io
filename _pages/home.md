@@ -5,6 +5,9 @@ permalink: /
 
 We are pleased to announce the **SMBE Satellite Meeting and Workshop on ‘Identifying barriers to gene flow in the genome’** to be held **17th-19th June 2019** at the [Marine Biology Laboratory, Tjärnö, Sweden](https://loven.gu.se/english/about_the_loven_centre/tjarno).
 
+![](/images/smbeslide.png)
+
+
 Speciation genomics is a fast moving and rapidly changing field. Genome scans and demographic inference are popular tools for studying how barriers to gene flow evolve and how species diverge, but the field has only recently begun to take into account confounding factors that might bias these methods.
 
 If standard approaches are insufficient for identifying barriers to gene flow and understanding the processes involved in speciation, where do we go next? One way forward is the use of sophisticated approaches to jointly infer signals of selection, gene flow and demographic history. We can also use efficient simulation to introduce greater statistical rigour to our approaches.

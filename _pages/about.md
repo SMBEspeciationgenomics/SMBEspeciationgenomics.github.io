@@ -13,6 +13,8 @@ This three day workshop/meeting on speciation genomics will combine talks from i
 
 The meeting will take place between the **17th-19th June 2019** at the [Marine Biology Laboratory, Tjärnö, Sweden](https://loven.gu.se/english/about_the_loven_centre/tjarno).
 
+![](/images/tjarno_aerial.jpg)
+
 To reach Tjärnö, it is easiest to fly either to Oslo or Gothenburg airports. Trains and buses to Strömstad, the nearest town to Tjärnö, run from [Gothenburg centre and Oslo Station](https://www.vastsverige.com/en/stromstad/articles/train--bus/). A local bus is available for departures to Tjärnö itself but we will also organise pickup from Strömstad when necessary.
 
 ## Requirements
