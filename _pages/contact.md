@@ -15,7 +15,7 @@ For any enquiries or questions, please contact the organisers at [smbespeciation
 
 ### Marina Rafajlović
 
-![](/images/marina.jpg =250x)
+![](/images/marina.jpg)
 
 [University of Gothenburg, Sweden](https://marine.gu.se/english/about-us/staff?languageId=100001&userId=xrafma)
 
