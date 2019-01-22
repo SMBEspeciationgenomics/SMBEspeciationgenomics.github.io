@@ -9,7 +9,7 @@ For any enquiries or questions, please contact the organisers at [smbespeciation
 
 ### Mark Ravinet
 
-![](/images/markravinet.jpeg =100x200)
+![](/images/markravinet.jpeg =100x20)
 
 [CEES, University of Oslo, Norway](https://www.mn.uio.no/cees/english/people/researcher-postdoc/msravine/)
 
