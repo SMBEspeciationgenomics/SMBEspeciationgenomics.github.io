@@ -1,12 +1,14 @@
 ---
-title: " "
+title: "Contact"
 layout: single
 permalink: /contact/
 header:
-  overlay_image: /images/workshop_logo.png
+  image: /images/workshop_logo.png
 ---
 
 For any enquiries or questions, please contact the organisers at [smbespeciation@gmail.com](mailto:smbespeciation@gmail.com)
+
+You can also find us on [twitter](https://twitter.com/SMBE_speciation)
 
 ## Organisers
 

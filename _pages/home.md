@@ -1,9 +1,9 @@
 ---
-title: " "
+title: ""
 layout: single
 permalink: /
 header:
-  overlay_image: /images/workshop_logo.png
+  image: /images/workshop_logo.png
 ---
 
 We are pleased to announce the **SMBE Satellite Meeting and Workshop on ‘Identifying barriers to gene flow in the genome’** to be held **17th-19th June 2019** at the [Marine Biology Laboratory, Tjärnö, Sweden](https://loven.gu.se/english/about_the_loven_centre/tjarno).
