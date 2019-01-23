@@ -1,4 +1,5 @@
 ---
+title: TEST
 layout: archive
 permalink: /
 header:
