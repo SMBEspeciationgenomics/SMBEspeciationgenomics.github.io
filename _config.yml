@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "SMBE_speciation"
 facebook:
   username               :
   app_id                 :
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/SMBE_speciation
+      url: "https://twitter.com/SMBE_speciation"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:smbespeciation@gmail.com
+      url: "mailto:smbespeciation@gmail.com"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
