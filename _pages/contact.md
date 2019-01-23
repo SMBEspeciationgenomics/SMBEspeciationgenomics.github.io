@@ -42,3 +42,7 @@ For any enquiries or questions, please contact the organisers at [smbespeciation
 ![](/images/Markus.jpg)
 
 [University of Innsbruck, Austria](https://www.uibk.ac.at/ecology/staff/persons/moest.html.en)
+
+This meeting has been made possible with the generous support of SMBE.
+
+![](/images/smbeslide.png)
