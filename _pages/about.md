@@ -24,6 +24,10 @@ To reach Tjärnö, it is easiest to fly either to Oslo or Gothenburg airports. T
 
 To attend the meeting, you will need to bring your own laptop and have a basic level of experience in unix and python. We recommend a [software carpentry course](https://software-carpentry.org/) and online resources such as [Codeacademy](https://www.codecademy.com/).
 
+## Presenting and participating
+
+All participants will have an opportunity to present their research as a flash presentation. There will be a strict limit on 2 slides per presentation and 2 minutes per person. The idea is that everyone gets a chance to present and that they will have a chance to discuss their research with all attendees throughout the workshop.
+
 ## Costs and registration
 
 There is space for approximately 40-50 participants. To apply, please register [here](/register/). The deadline for applications is **25th February**. It is free to register but attendance will cost $300 (US) to cover accommodation and food for the three days. Travel bursaries are available for MSc and PhD students wishing to attend.
