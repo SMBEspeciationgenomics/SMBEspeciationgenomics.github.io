@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "SMBE Satellite Meeting on Speciation Genomics"
 title_separator          : "-"
-name                     :
+name                     : "Mark Ravinet"
 description              : "Identifying barriers to gene flow in the genome"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

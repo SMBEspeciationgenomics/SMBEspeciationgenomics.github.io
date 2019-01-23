@@ -8,13 +8,18 @@ header:
 
 For any enquiries or questions, please contact the organisers at [smbespeciation@gmail.com](mailto:smbespeciation@gmail.com)
 
-You can also find us on [twitter](https://twitter.com/SMBE_speciation)
+You can also find us on [twitter](https://twitter.com/SMBE_speciation). Follow us and spread the word!
 
 ## Organisers
 
 ### Mark Ravinet
 
 ![](/images/markravinet.jpeg)
+
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/markravinet.jpeg" alt="">
+</figure> 
+
 
 [CEES, University of Oslo, Norway](https://www.mn.uio.no/cees/english/people/researcher-postdoc/msravine/)
 
