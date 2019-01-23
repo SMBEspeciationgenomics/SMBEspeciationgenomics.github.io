@@ -1,6 +1,6 @@
 ---
-title: TEST
-layout: archive
+title:
+layout: single
 permalink: /
 header:
   overlay_image: /images/workshop_logo.png

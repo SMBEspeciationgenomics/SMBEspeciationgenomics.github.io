@@ -1,6 +1,9 @@
 ---
-layout: archive
+title:
+layout: single
 permalink: /about/
+header:
+  overlay_image: /images/workshop_logo.png
 ---
 
 We will continue to update this page as the date for the workshop approaches, however some initial information is available here.
