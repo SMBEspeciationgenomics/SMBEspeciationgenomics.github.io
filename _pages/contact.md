@@ -12,16 +12,15 @@ You can also find us on [twitter](https://twitter.com/SMBE_speciation). Follow u
 
 ## Organisers
 
-### Mark Ravinet
-
-![](/images/markravinet.jpeg)
-
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/markravinet.jpeg" alt="">
-</figure> 
+</figure>
 
-
+### Mark Ravinet
 [CEES, University of Oslo, Norway](https://www.mn.uio.no/cees/english/people/researcher-postdoc/msravine/)
+
+
+![](/images/markravinet.jpeg)
 
 ### Marina Rafajlović
 
