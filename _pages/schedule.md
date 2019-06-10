@@ -5,5 +5,5 @@ permalink: /schedule/
 header:
   image: /images/workshop_logo.png
 ---
-More detailed information will be available soon, but for now you can view a
-provisional schedule [here](/files/rough_schedule_Jan2019.pdf).
+
+You can view the schedule for the workshop [here](https://docs.google.com/spreadsheets/d/1VWmGJd5ZyVEm2f2dnzIpST20p9Hh8bSwHwD55csEczw/edit?usp=sharing)
