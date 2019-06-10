@@ -32,6 +32,6 @@ You can take a train from Gothenburg Station to Strömstad (2hr 40 mins, 194 SEK
 
 To attend the meeting, you will need to bring your own laptop and have a basic level of experience in unix and python. We recommend a [software carpentry course](https://software-carpentry.org/) and online resources such as [Codeacademy](https://www.codecademy.com/).
 
-## Presentation and participation
+## Presenting and participating
 
-All participants will have an opportunity to give a 2 minute, 2 slide flash presentation. We will be spacing these at regular intervals throughout the meeting. The idea is to foster discussion about different aspects of speciation research and to ensure all participants are familiar with one another. Presenting is not mandatory, but we strongly encourage all participants to take part.
+All participants will have an opportunity to present their research as a flash presentation. There will be a strict limit on 2 slides per presentation and 2 minutes per person. The idea is that everyone gets a chance to present and that they will have a chance to discuss their research with all attendees throughout the workshop.
