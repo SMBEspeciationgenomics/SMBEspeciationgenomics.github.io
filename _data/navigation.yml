@@ -8,6 +8,8 @@ main:
     url: https://SMBEspeciationgenomics.github.io/schedule/
   - title: "Register"
     url: https://SMBEspeciationgenomics.github.io/register/
+  - title: "Resources"
+    url: https://SMBEspeciationgenomics.github.io/resources/
   - title: "Contact"
     url: https://SMBEspeciationgenomics.github.io/contact/
   # - title: "Sample Posts"
